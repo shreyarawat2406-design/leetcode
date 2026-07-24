@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyarawat2406-design/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/shreyarawat2406-design/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shreyarawat2406-design/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreyarawat2406-design/leetcode/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreyarawat2406-design/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
