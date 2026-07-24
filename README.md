@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyarawat2406-design/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/shreyarawat2406-design/leetcode/tree/master/0867-transpose-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyarawat2406-design/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/shreyarawat2406-design/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyarawat2406-design/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/shreyarawat2406-design/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
