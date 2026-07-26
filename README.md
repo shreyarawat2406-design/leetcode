@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/shreyarawat2406-design/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreyarawat2406-design/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyarawat2406-design/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/shreyarawat2406-design/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
