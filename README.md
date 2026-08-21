@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shreyarawat2406-design/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shreyarawat2406-design/leetcode/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shreyarawat2406-design/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreyarawat2406-design/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shreyarawat2406-design/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shreyarawat2406-design/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
