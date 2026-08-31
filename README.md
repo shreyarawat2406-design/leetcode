@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyarawat2406-design/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyarawat2406-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/shreyarawat2406-design/leetcode/tree/master/0867-transpose-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreyarawat2406-design/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyarawat2406-design/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shreyarawat2406-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyarawat2406-design/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyarawat2406-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/shreyarawat2406-design/leetcode/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyarawat2406-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
