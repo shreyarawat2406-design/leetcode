@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreyarawat2406-design/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyarawat2406-design/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyarawat2406-design/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/shreyarawat2406-design/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyarawat2406-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/shreyarawat2406-design/leetcode/tree/master/0867-transpose-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreyarawat2406-design/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyarawat2406-design/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shreyarawat2406-design/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shreyarawat2406-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyarawat2406-design/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyarawat2406-design/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shreyarawat2406-design/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Simulation
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shreyarawat2406-design/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreyarawat2406-design/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
